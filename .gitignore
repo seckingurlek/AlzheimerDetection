@@ -1,0 +1,26 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm settings
+.idea/
+
+# VSCode settings
+.vscode/
+
+# Large dataset folder (exclude)
+data/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
